@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([["27627"],{47548:function(e){e.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Crawlee Blog - learn how to build better scrapers","authorsListPath":"/blog/authors"}')}}]);
