@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crawlee.dev/blog</id>
-    <title>Crawlee · Build reliable crawlers. Fast. Blog</title>
+    <title>Crawlee for JavaScript · Build reliable crawlers. Fast. Blog</title>
     <updated>2025-03-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crawlee.dev/blog"/>
-    <subtitle>Crawlee · Build reliable crawlers. Fast. Blog</subtitle>
+    <subtitle>Crawlee for JavaScript · Build reliable crawlers. Fast. Blog</subtitle>
     <icon>https://crawlee.dev/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Inside implementing SuperScraper with Crawlee]]></title>
